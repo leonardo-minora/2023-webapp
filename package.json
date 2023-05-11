@@ -1,8 +1,9 @@
 {
-  "name": "webapp-tarefas",
+  "name": "infoweb-tarefas",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
+  "repository": {"url": "https://github.com/leonardo-minora/2023-webapp"},
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

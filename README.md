@@ -1,5 +1,5 @@
 # pos Programação Orientada a Serviços
-Projeto de exemplo da disciplina de Programação Orientada a Serviço
+Projeto javascript de aplicação web em react de exemplo da disciplina de Programação Orientada a Serviço.
 
 ## Info
 Disciplina: pos Programação Orientada a Serviços
@@ -14,7 +14,8 @@ Professor: [Leonardo Ataide Minora](https://github.com/leonardo-minora)
 [Leonardo Ataide Minora](https://github.com/leonardo-minora)
 
 ## Log do projeto
-| Data | Descrição |
-| --- | --- |
-| 2023 | Projeto HTML publicado |
+| Data       | Descrição               |
+| ---------- | ----------------------- |
+| 2023/04/10 | Projeto js inicializado |
+| 2023/03/30 | Projeto HTML publicado  |
 
